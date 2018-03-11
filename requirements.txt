@@ -1,0 +1,4 @@
+git+https://github.com/django/channels.git#egg=channels
+psycopg2==2.7.4
+pytest-asyncio==0.8.0
+pytest-django==3.1.2
